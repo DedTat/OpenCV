@@ -1,0 +1,9 @@
+﻿  main.cpp
+f:\политех\архитектура эвм\окончательный вариант\opencv\lab6\opencv2/flann/flann.hpp(233): warning C4996: 'cv::flann::Index_<T>': was declared deprecated
+  f:\политех\архитектура эвм\окончательный вариант\opencv\lab6\opencv2/flann/flann.hpp(278): note: see reference to class template instantiation 'cv::flann::Index_<T>' being compiled
+  Generating code
+  Finished generating code
+  16 of 17 functions (94.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Lab6.vcxproj -> F:\Политех\Архитектура ЭВМ\Окончательный вариант\OpenCV\Release\Lab6.exe
